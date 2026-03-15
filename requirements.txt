@@ -30,7 +30,7 @@ Scrapy
 service-identity
 six
 tldextract
-Twisted
+
 twisted-iocpsupport
 typing_extensions
 urllib3
