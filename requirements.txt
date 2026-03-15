@@ -31,7 +31,7 @@ service-identity
 six
 tldextract
 
-twisted-iocpsupport
+twisted
 typing_extensions
 urllib3
 w3lib
